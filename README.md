@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bebrohub12&label=Profile%20views&color=0e75b6&style=flat" alt="bebrohub12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bebrohub12" alt="bebrohub12" /></a> </p>
+
 
 - 🌱 I’m currently learning **JavaScript**
 
